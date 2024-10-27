@@ -1,0 +1,82 @@
+{
+  "site-imb-teste.netlify.app": {
+      "nameSite": "LocalHost",
+      "paginas": [
+        { "name": "Anunciar imóvel", "rota": "/anuncie-seu-imovel" },
+        { "name": "Home", "rota": "/" },
+        { "name": "Comprar", "rota": "/comprar" },
+        { "name": "Quem Somos", "rota": "/quem-somos" }
+        
+      ],
+      "home": {
+        "heros": [
+          { 
+            "title": "A gente te ajuda a transformar grandes sonhos", 
+            "description": "Simule um financiamento para a compra do seu imóvel com uma das taxas mais baixas do mercado, a partir de 9,49% ao ano",
+            "textButton": "Simular financiamento",
+            "urlButton": "https://www.vivareal.com.br/anunciar-imoveis?ic=branding&local=banner-descubra&campaign=anunciarimoveis"
+          },
+
+          { 
+            "title": "Corretores, imobiliárias e incorporadoras", 
+            "description": "Receba mais contatos divulgando os seus imóveis no maior portal imobiliário do Brasil",
+            "textButton": "Anunciar Imóveis",
+            "urlButton": "https://www.vivareal.com.br/anunciar-imoveis?ic=branding&local=banner-descubra&campaign=anunciarimoveis"
+          } 
+        ]
+      },
+      "contato": {
+        "...": ""
+      },
+      "faq": {
+        "...": ""
+      },
+      "quemSomos":{
+        "tituloPrincipal": "Ajudando as pessoas da cidade ter mais qualidade de vida",
+        "historia" : "Vestibulum fermentum, dolor quis laoreet pharetra, sem tellus aliquet dolor, sit amet pellentesque ipsum nisl vitae nulla. Proin lacinia id magna molestie tincidunt. Vivamus laoreet erat et lobortis lobortis. Sed velit nibh, rutrum ac velit sit amet, scelerisque porta diam. Nulla non leo ornare, aliquet sem euismod, sagittis diam. Curabitur aliquet euismod rutrum. Praesent egestas neque eu lobortis feugiat. Proin luctus lacinia venenatis. Nunc semper ornare metus, eu pretium nisi iaculis et.",
+        "urlVideo" : "https://www.youtube.com/embed/qPAiYaZOGeQ?si=fNUhUbysgTinCEaK",
+        "urlHeroImg": "https://images.pexels.com/photos/8293778/pexels-photo-8293778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+  },
+  
+  "pepin-frontend.netlify.app": {
+    "paginas": [
+      { "name": "Anunciar imóvel", "rota": "/anuncie-seu-imovel" },
+      { "name": "Home", "rota": "/" },
+      { "name": "Quem Somos", "rota": "/quem-somos" },
+      { "name": "Locação", "rota": "/aluguel" },
+      { "name": "Vendas", "rota": "/vendas" },
+      { "name": "Promoção", "rota": "/promocao" }
+    ],
+    "home": {
+        "heros": [
+          { 
+            "title": "A gente te ajuda a transformar grandes sonhos", 
+            "description": "Simule um financiamento para a compra do seu imóvel com uma das taxas mais baixas do mercado, a partir de 9,49% ao ano",
+            "textButton": "Simular financiamento",
+            "urlButton": "https://www.vivareal.com.br/anunciar-imoveis?ic=branding&local=banner-descubra&campaign=anunciarimoveis"
+          },
+
+          { 
+            "title": "Corretores, imobiliárias e incorporadoras", 
+            "description": "Receba mais contatos divulgando os seus imóveis no maior portal imobiliário do Brasil",
+            "textButton": "Anunciar Imóveis",
+            "urlButton": "https://www.vivareal.com.br/anunciar-imoveis?ic=branding&local=banner-descubra&campaign=anunciarimoveis"
+          } 
+        ]
+      },
+      "contato": {
+        "...": ""
+      },
+      "faq": {
+        "...": ""
+      },
+      "quemSomos":{
+        "tituloPrincipal": "Ajudando as pessoas ter mais qualidade de vida morando nos melhores lugares",
+        "historia" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in tellus nibh. Quisque posuere fermentum urna id cursus. Phasellus lacinia ultricies faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras consequat lectus eu justo pulvinar, non efficitur turpis interdum. Donec ullamcorper dictum ipsum, in tempor nulla placerat egestas. Curabitur ante odio, lobortis sed aliquam vel, suscipit quis nunc." ,
+        "urlVideo" : "https://www.youtube.com/embed/h1neqMczbh0?si=Z4_mbNcbcUbxA5F_",
+        "urlHeroImg": "https://images.pexels.com/photos/313691/pexels-photo-313691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=1050&dpr=1" 
+      },
+      "nameSite": "Pepin"
+  }
+}
